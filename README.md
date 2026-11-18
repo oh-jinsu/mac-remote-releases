@@ -2,7 +2,7 @@
 
 같은 iPhone 앱에서 Mac과 Windows PC를 제어하는 SimpleRemote의 서명된 배포 파일 저장소입니다. 앱 소스·서명 개인키·페어링 정보는 공개하지 않습니다.
 
-[Mac 0.8.0 다운로드](https://github.com/oh-jinsu/mac-remote-releases/releases/tag/mac-v0.8.0)
+[Mac 0.8.1 다운로드](https://github.com/oh-jinsu/mac-remote-releases/releases/download/mac-v0.8.1/SimpleRemote-0.8.1-universal.dmg)
 
 - macOS 14 이상, Intel·Apple Silicon 공용 앱입니다. Developer ID 서명·Apple 공증을 통과했고 앱에 공증 티켓을 첨부했습니다. 화면 기록·손쉬운 사용 권한은 macOS에서 별도로 허용해야 합니다.
 - Mac은 서명된 업데이트 안내와 패키지를 검증하고 자동으로 업데이트합니다.
